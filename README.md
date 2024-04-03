@@ -1,4 +1,12 @@
-### Hi there 👋
+🏈 _**Olá! Meu nome é Paulo Matheus Zocche!**_
+
+👔 **Sou professor de Pensamento Computacional.** 
+
+🏢 **Atuo no núcleo regional de educação de Laranjeiras do Sul - PR**
+
+👨‍💻 **Sou estudante do curso de programação** [Alura](https://www.alura.com.br/) 
+
+![](https://tenor.com/pt-BR/view/lebron-james-king-james-king-crown-lakers-gif-3644805052166030831) 
 
 <!--
 **PauloZocche/PauloZocche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
