@@ -6,7 +6,7 @@
 
 👨‍💻 **Sou estudante do curso de programação** [Alura](https://www.alura.com.br/) 
 
-![](https://tenor.com/pt-BR/view/lebron-james-king-james-king-crown-lakers-gif-3644805052166030831) 
+![](https://media1.tenor.com/m/MpTy4knnxe8AAAAd/lebron-james-king-james.gif) 
 
 <!--
 **PauloZocche/PauloZocche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
