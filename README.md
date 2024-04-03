@@ -4,7 +4,7 @@
 
 🏢 **Atuo no núcleo regional de educação de Laranjeiras do Sul - PR**
 
-👨‍💻 **Sou estudante do curso de programação** [Alura](https://www.alura.com.br/) 
+👨‍💻 **Sou estudante do curso de programação da plataforma** [Alura](https://www.alura.com.br/) 
 
 ![](https://media1.tenor.com/m/_DviHto7TeQAAAAd/fallen-cs-happy.gif)
 <!--
